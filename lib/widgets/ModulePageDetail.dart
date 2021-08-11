@@ -1,6 +1,6 @@
 import 'package:canvas_lms/api.dart';
-import 'package:canvas_lms/modal/DetailPage.dart';
-import 'package:canvas_lms/modal/ModuleItems.dart';
+import 'package:canvas_lms/model/DetailPage.dart';
+import 'package:canvas_lms/model/ModuleItems.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_widget_from_html/flutter_widget_from_html.dart';
 

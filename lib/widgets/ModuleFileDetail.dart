@@ -1,5 +1,5 @@
 import 'package:canvas_lms/api.dart';
-import 'package:canvas_lms/modal/DetailFile.dart';
+import 'package:canvas_lms/model/DetailFile.dart';
 import 'package:flutter/material.dart';
 
 class ModuleFileDetail extends StatefulWidget {

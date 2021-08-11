@@ -1,4 +1,4 @@
-import 'package:canvas_lms/modal/ModuleItems.dart';
+import 'package:canvas_lms/model/ModuleItems.dart';
 import 'package:canvas_lms/screen/ModuleDetail.dart';
 import 'package:flutter/material.dart';
 

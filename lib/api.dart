@@ -1,14 +1,14 @@
 import 'dart:convert';
-import 'package:canvas_lms/modal/Dashboard.dart';
-import 'package:canvas_lms/modal/DetailAsignment.dart';
-import 'package:canvas_lms/modal/DetailFile.dart';
-import 'package:canvas_lms/modal/DetailPage.dart';
-import 'package:canvas_lms/modal/ModuleItems.dart';
-import 'package:canvas_lms/modal/Modules.dart';
+import 'package:canvas_lms/model/Dashboard.dart';
+import 'package:canvas_lms/model/DetailAsignment.dart';
+import 'package:canvas_lms/model/DetailFile.dart';
+import 'package:canvas_lms/model/DetailPage.dart';
+import 'package:canvas_lms/model/ModuleItems.dart';
+import 'package:canvas_lms/model/Modules.dart';
 import 'package:http/http.dart' as http;
 import 'dart:io';
 
-import 'package:canvas_lms/modal/CalendarEvent.dart';
+import 'package:canvas_lms/model/CalendarEvent.dart';
 
 class HttpService {
   //HTTP fech data

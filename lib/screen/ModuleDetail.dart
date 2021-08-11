@@ -1,4 +1,4 @@
-import 'package:canvas_lms/modal/ModuleItems.dart';
+import 'package:canvas_lms/model/ModuleItems.dart';
 import 'package:canvas_lms/widgets/ModuleAsignmentDetail.dart';
 import 'package:canvas_lms/widgets/ModuleFileDetail.dart';
 import 'package:canvas_lms/widgets/ModulePageDetail.dart';
